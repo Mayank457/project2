@@ -2,4 +2,4 @@
 
 This project was created from local system.
 created by Mayank shekhar.
-Manage by Mayank
+Manage by Mayank..
